@@ -1,0 +1,2 @@
+# pytorch_seq2seq_toy
+基于pytorch的seq2seq模型
